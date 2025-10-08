@@ -1,9 +1,3 @@
-Certamente\! Para facilitar a visualização e a cópia para seu `README.md` no GitHub, o formato **Markdown** é o ideal. O GitHub renderiza automaticamente o Markdown para HTML, mantendo a formatação, links e estilos.
-
-Aqui está a versão completa do `README.md` em **Markdown**, pronta para ser copiada:
-
------
-
 # 🚀 TO-DO List API - Google Sheets Backend
 
 Uma API RESTful simples para gerenciamento de tarefas (TO-DO List), utilizando **Google Sheets** como banco de dados (Infraestrutura) e implementando princípios de **Arquitetura Limpa (Clean Architecture) e SOLID**.
